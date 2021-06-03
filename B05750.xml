@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Scotland's rejoicing, or, A gratulatorie poem upon His Royal Highness arrival into Scotland. To be sung with a pleasant new tune.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05750</idno><idno type="EEBO-CITATION">51617446</idno>
+  <idno type="VID">175365</idno>
+  <idno type="EEBO-PROQUEST">2240902732</idno>
+  
+            <idno type="STC">Wing S2017A</idno>
+            <idno type="STC">ESTC R183616</idno>
+            <idno type="OCLC">51617446</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05750)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175365)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2730:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotland's rejoicing, or, A gratulatorie poem upon His Royal Highness arrival into Scotland. To be sung with a pleasant new tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Heir of Andrew Anderson,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Suggested publication data from Wing.</note>
+                  <note>His Royal Highness = James II, at that time Duke of Albany.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James --  II, --  King of England, 1633-1701 --  Poetry.</term>
+               <term type="topical_term">Ballads, Scots --  17th century.</term>
+               <term type="geographic_name">Scotland --  History --  1660-1688 --  Poetry.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:175365:1"/>
+            <head>SCOTLAND'S REJOICING, <hi>OR, A Gratul<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>torie Poem upon his ROYAL HIGHNESS</hi> Arrival into SCOTLAND.</head>
+            <opener>To be sung with a pleasant New Tune.</opener>
+            <lg>
+               <l>MAy half dead spirits now revive,</l>
+               <l>and clouds of grief quite banisht be</l>
+               <l>For reason of this quick survive,</l>
+               <l>the approach of <hi>Iames of Albanie:</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Of Albanie, of Albanie.</hi>
+                  </l>
+                  <l>
+                     <hi>let's all with one consent agree;</hi>
+                  </l>
+                  <l>
+                     <hi>And pray still for that Royal Race,</hi>
+                  </l>
+                  <l>
+                     <hi>And IAMES, the Duke of Albanie.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Let's thankfull prove for these blest dayes,</l>
+               <l>and all with pen and tongue agree;</l>
+               <l>To welcome, write, and sing the praise,</l>
+               <l>of <hi>Iames the Duke of Albanie.</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Of Albanie &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>His Wit, his Valour and his Grace,</l>
+               <l>his goodness, and his pietie,</l>
+               <l>Do shew of what a Royal Race,</l>
+               <l>is <hi>James,</hi> the <hi>Duke of Albanie,</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Of Albanie,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>His praises, I will ever sing,</l>
+               <l>and humbly beg upon my knee,</l>
+               <l>God to preserve our Royal King.</l>
+               <l>and <hi>Iames</hi> the Duke of <hi>Albanie:</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Of Albanie,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The <hi>Commons</hi> now are at a stand,</l>
+               <l>and evermore I hope shall be:</l>
+               <l>For <hi>Scotland</hi> will be help at hand,</l>
+               <l>for <hi>James</hi> the <hi>Duke of Albanie,</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Of Albanie,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>A braver <hi>Nation</hi> he can not have,</l>
+               <l>for Truth, for Love, for Loyaltie,</l>
+               <l>Each man will fight unto his Grave,</l>
+               <l>for <hi>Iames</hi> the <hi>Duke of Albanie.</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Of Albanie,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>A souldier stout he is and brave,</l>
+               <l>as ever any man did see,</l>
+               <l>God bless our King and Queen, and save</l>
+               <l>our <hi>Iames</hi> the <hi>Duke of Albanie.</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Of Albanie,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>He very wise and prudent is,</l>
+               <l>and generous in Majestie,</l>
+               <l>Let all good subjects still him bless,</l>
+               <l>and Love brave <hi>Iames of Albanie.</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Of Albanie,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>All Loyal subjects now reioice,</l>
+               <l>and honour him in each degree,</l>
+               <l>Next to the King he is our choise</l>
+               <l>brave <hi>Iames Duke of Albanie.</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Of Albanie,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Then let our reason our will sway,</l>
+               <l>and every one upon his knee:</l>
+               <l>I do not mean to drink but pray</l>
+               <l>for <hi>Iames</hi> the <hi>Duke of Albanie.</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Of Albanie,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>There is no man so mad to think</l>
+               <l>that drinking can availing be,</l>
+               <l>It,s better for to fight then drink,</l>
+               <l>for <hi>Iames</hi> the <hi>Duke of Albanie,</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Of Albanie,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Yet do not think Il<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e balk his health,</l>
+               <l>but take my cup most moderatlie:</l>
+               <l>I'le drink, I'le fight, I'le spend my wealth</l>
+               <l>for <hi>Iames</hi> the <hi>Duke of Albanie.</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Of Albanie,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>His Highness now to <hi>Scotland's</hi> come</l>
+               <l>from whence he draws his pedegreè:</l>
+               <l>Wh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> should it not be then the home.</l>
+               <l>of <hi>Iames</hi> the <hi>Duke of Albanie.</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Of Albanie,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Right welcome is <hi>He,</hi> and no less</l>
+               <l>his noble <hi>Dutchess</hi> only she:</l>
+               <l>Lor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fill their hearts with thy goodness,</l>
+               <l>that they may many good dayes see.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Of Albanie</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Let Bon-fires burn, and let Bells ring,</l>
+               <l>let's drink his health upon our knee,</l>
+               <l>Let <hi>Preachers</hi> pray, and <hi>players</hi> sing,</l>
+               <l>for <hi>Iames</hi> the <hi>Duke of Albanie.</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Of Albanie,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Let Cannons roar, and Trumpets sound,</l>
+               <l>and let us always joyful be:</l>
+               <l>Let shouts unto the Skyes rebound,</l>
+               <l>for <hi>Iames</hi> the <hi>Duke of Albanie.</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Of Albanie,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Whilst some will preach &amp; some will pray</l>
+               <l>for him and his posteritie,</l>
+               <l>I'le drink all night, Il'e fight all day,</l>
+               <l>for <hi>Iames</hi> the <hi>Duke of Albanie.</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Of Albanie,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>We cannot fully sing his Praise,</l>
+               <l>the joy, the hope of our Countrie:</l>
+               <l>Yet let us loyal be always,</l>
+               <l>to <hi>Iames</hi> the <hi>Duke of Albanie,</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Of Albanie,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Now as I did begin, no doubt,</l>
+               <l>it's fit each Catch should ended be,</l>
+               <l>Once more let this health go about.</l>
+               <l>for <hi>Iames</hi> the <hi>Duke of Albanie.</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Of Albanie, of Albanie,</hi>
+                  </l>
+                  <l>
+                     <hi>let's all with one consent agree,</hi>
+                  </l>
+                  <l>
+                     <hi>And pray still for that Royal-Race.</hi>
+                  </l>
+                  <l>
+                     <hi>and <hi>IAMES</hi> the Duke of <hi>Albanie.</hi>
+                     </hi>
+                  </l>
+               </lg>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175365:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
